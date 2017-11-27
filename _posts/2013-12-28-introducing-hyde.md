@@ -9,7 +9,7 @@ published: true
 So what is [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 >HTML (HyperText Markup Language) is the most basic building block of the Web. It describes and defines the content of a webpage. Other technologies besides HTML are generally used to describe a webpage's appearance/presentation (CSS) or functionality/behavior (JavaScript).
 
-So HTML has these elements that are tags such as heading ```HTML <h1> Hello World </h1> ```
+So HTML has these elements that are tags such as heading `<h1> Hello World </h1>,<h2>Hello World</h2>`  `
 
 
 
