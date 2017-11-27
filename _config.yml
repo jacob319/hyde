@@ -8,7 +8,7 @@ permalink: /blog/:year/:month/:day/:title
 # Setup
 title:            Isaac's Blog
 tagline:          'A Jekyll theme'
-description:      'Simple blog post about me learning HTML,CSS,and JavaScript. Mainly will be posting weekly in a technical blog form.'
+description:      'Simple blog posts about me learning HTML,CSS,and JavaScript. Mainly will be posting weekly in a technical blog form.'
 url:              https://github.com/jacob319
 baseurl:          /
 
