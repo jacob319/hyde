@@ -31,7 +31,7 @@ So here's a sample of a HTML page:
 
 
 
-### Hyde features
+### INTRO To CSS
 
 In addition to the features of Poole, Hyde adds the following:
 
