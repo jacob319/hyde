@@ -8,7 +8,8 @@ Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a pro
 
 ### Intro HTML
 So what is HTML:
->html is the hyper-text markup.
+>Acoording to MDN:HTML[HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML) (HyperText Markup Language) is the most basic building block of the Web. It describes and defines the content of a webpage. Other technologies besides HTML are generally used to describe a webpage's appearance/presentation (CSS) or functionality/behavior (JavaScript).
+
 
 
 
