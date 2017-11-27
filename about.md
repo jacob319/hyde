@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About
-published: true
+published: false
 ---
-![]({{site.baseurl}}//Isaac.jpg)
+
 
 
 <p class="message">
