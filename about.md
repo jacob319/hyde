@@ -1,9 +1,10 @@
 ---
 layout: page
 title: About
-published: true
+published: false
 ---
-<img class="img-circle" src="isaac.jpg">
+![isaac picture -circle](isaac.jpg)
+
 
 <p class="message">
   Hey there! My name is Isaac Madearis.I am currently in my first semester at Johnson County Community College in Overland Park,KS working towards a Associate of Applied Science Degree.I enjoy taking a blank screen and making something useful.  I belive my consistency and drive to finish what I started will help me achieve my goals.My interests in web development are responsive design,browser compatibility,Css animations,SEO among other things as well.
