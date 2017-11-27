@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-published: false
+published: true
 ---
 ![]({{site.baseurl}}//Isaac.jpg)![Isaac.jpg]({{site.baseurl}}/Isaac.jpg)
 
