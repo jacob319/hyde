@@ -3,7 +3,7 @@ layout: page
 title: About
 published: true
 ---
-![isaac picture -circle](isaac.jpg)
+![]({{site.baseurl}}//Isaac.jpg = width="100")
 
 
 <p class="message">
