@@ -7,7 +7,7 @@ published: true
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ### Intro HTML
-So what is [HTML]([HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML))
+So what is [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 >HTML (HyperText Markup Language) is the most basic building block of the Web. It describes and defines the content of a webpage. Other technologies besides HTML are generally used to describe a webpage's appearance/presentation (CSS) or functionality/behavior (JavaScript).
 
 
