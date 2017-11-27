@@ -7,7 +7,8 @@ published: true
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ### Intro HTML
-So what is HTML> We loved with a love that was more than love
+So what is HTML>html is the hyper-text markup.
+
 
 
 
