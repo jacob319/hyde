@@ -1,30 +1,13 @@
 ---
 layout: page
 title: About
+published: true
 ---
 
 <p class="message">
-  Hey there! Isaac madearis page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! My name is Isaac Madearis.I am currently in my first semester at Johnson County Community College in Overland Park,KS working towards a Associate of Applied Science Degree.I enjoy taking a blank screen and making something useful.  I belive my consistency and drive to finish what I started will help me achieve my goals.My interests in web development are responsive design,browser compatibility,Css animations,SEO among other things as well.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<p>Studied at <a href="http://www.jccc.edu/">Johnson County Community Program in Web Development</a></p>
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<p>You may also know more about me through my <a href="https://www.linkedin.com/in/isaac-madearis/"></a> or <a href="https://www.instagram.com/isaacmad/">Instagram</a>!</p>
