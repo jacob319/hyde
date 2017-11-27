@@ -4,11 +4,12 @@ title: Intro to HTML & CSS
 published: true
 ---
 
-### Intro HTML
+### Intro to HTML
 
 So what is [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 >HTML (HyperText Markup Language) is the most basic building block of the Web. It describes and defines the content of a webpage. Other technologies besides HTML are generally used to describe a webpage's appearance/presentation (CSS) or functionality/behavior (JavaScript).
 
+So HTML has these elements that are tags such as heading '''heading <h1> Hello World </h1> '''
 
 
 
