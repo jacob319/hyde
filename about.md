@@ -3,7 +3,7 @@ layout: page
 title: About
 published: false
 ---
-
+![]({{site.baseurl}}//Isaac.jpg)
 
 
 <p class="message">
