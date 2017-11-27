@@ -3,7 +3,7 @@ layout: page
 title: About
 published: true
 ---
-![]({{site.baseurl}}//Isaac.jpg = width="100")
+![]({{site.baseurl}}//Isaac.jpg = width=100)
 
 
 <p class="message">
