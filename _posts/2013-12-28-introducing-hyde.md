@@ -27,7 +27,7 @@ So here's a sample of a HTML page:
 </html>
 ```
 
-
+[![DON'T Buy The iPhone X](https://i.ytimg.com/vi/2fGXDFiFBhg/hqdefault.jpg)](https://www.youtube.com/embed/2fGXDFiFBhg?autoplay=1 "DON'T Buy The iPhone X")
 
 
 
