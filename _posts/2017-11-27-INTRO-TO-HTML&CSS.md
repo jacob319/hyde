@@ -63,7 +63,7 @@ CSS can either be writing in the HTML file or in a separate css file. OK to use 
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <h1>Look at you writing HTML & CSS!</h1>
+    <h1>Look at you writing HTML and CSS!</h1>
     <p>I knew you could do it.</p>
   </body>
 </html>
