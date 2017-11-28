@@ -29,8 +29,7 @@ So here's a sample of a HTML page:
 
 [![DON'T Buy The iPhone X](https://i.ytimg.com/vi/2fGXDFiFBhg/hqdefault.jpg)](https://www.youtube.com/embed/2fGXDFiFBhg? "DON'T Buy The iPhone X")
 
-ESPN. (2017, November 27). Why did giannis antetokounmpo threaten bucks assistant coach? | jalen and jacoby | espn [Video file]. Retrieved from https://youtu.be/nHEkgeiSuZ4
-
+[![Bootstrap 4 Tutorial [#1] What's New in Bootstrap 4?](https://i.ytimg.com/vi/69nEzHLy_tM/hqdefault.jpg)](https://www.youtube.com/watch?v=69nEzHLy_tM "Bootstrap 4 Tutorial [#1] What's New in Bootstrap 4?")
 
 
 ### INTRO To CSS
