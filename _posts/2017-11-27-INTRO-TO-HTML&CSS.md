@@ -30,20 +30,57 @@ So here's a sample of a HTML page:
 
 ### INTRO To CSS
 
-In addition to the features of Poole, Hyde adds the following:
+In addi [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) brings color and style to ones website. Brings  a little pop too something interesting to your site that views will enjoy.
+>Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.
 
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
+CSS can either be writing in the HTML file or in a separate css file. OK to use CSS in HTML let's use some style tags: `<style>h1{ backgroud-color:yellow;}</style>`. Oh yes place in between the head tags like so:
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My CSS experiment</title>
+    <style>
+      body {
+         background-color: yellow;
+     }
+   </style>
+  </head>
+  <body>
+    <h1>Look at me!</h1>
+    <p> See writing CSS not that hard.</p>
+  </body>
+</html>
+```
+  So if you're going to you a separate css file one must link in HTML: `<link rel="stylesheet" href="style.css">`. Now let me give you and example:
 
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My CSS example</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Look at you writing HTML & CSS!</h1>
+    <p>I knew you could do it.</p>
+  </body>
+</html>
+```
+So let's write some CSS for our HTML that's above remember this will be written in a file called style.css:
 
-### Browser support
+```
+h1 {
+  color: purple;
+  background-color: yellow;
+  border: 1px solid black;
+}
 
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+p {
+  color: green;
+}
+```
+OK here we go so the `<h1>` header tag yep the text is purple.Also has a background color of yellow,a solid black border that's 1 pixel wide. The last tag `<p>` is a paragraph tag which text is green yep Hulk green. 
 
-### Download
-
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
+So there you have it a short intro to HTML and CSS to learn more head over to [MDN](https://developer.mozilla.org/en-US/) Web Docs.
