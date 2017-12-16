@@ -6,9 +6,9 @@ published: true
 So what is [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 >HTML (HyperText Markup Language) is the most basic building block of the Web. It describes and defines the content of a webpage. Other technologies besides HTML are generally used to describe a webpage's appearance/presentation (CSS) or functionality/behavior (JavaScript).
 
-So HTML has these elements that are tags such as heading tags`<h1> Hello World </h1>,<h2>Hello World</h2>`, paragraph tags `<p>Hello World</p>` as you can see each tag has a open tag `<h1>, <p>`, and a closing tag `</h1>,</p>`. 
+So HTML has these elements that are tags such as heading tags`<h1> Hello World </h1>,<h2>Hello World</h2>`, paragraph tags `<p>Hello World</p>` as you can see each tag has a opening tag `<h1>, <p>`, and a closing tag `</h1>,</p>`. 
 
-So here's a sample of a HTML page:
+So here's a example of a HTML page:
 ```
 <!DOCTYPE html>
 <html>
@@ -52,7 +52,7 @@ CSS can either be writing in the HTML file or in a separate css file. OK to use 
   </body>
 </html>
 ```
-  So if you're going to you a separate css file one must link in HTML: `<link rel="stylesheet" href="style.css">`. Now let me give you and example:
+ so one must link the css file in HTML: `<link rel="stylesheet" href="style.css">`. Now let me give you and example:
 
 ```
 <!DOCTYPE html>
@@ -68,7 +68,7 @@ CSS can either be writing in the HTML file or in a separate css file. OK to use 
   </body>
 </html>
 ```
-So let's write some CSS for our HTML that's above remember this will be written in a file called style.css:
+So let's write some CSS for our HTML that's above remember this will be written in a file called style.css
 
 ```
 h1 {
@@ -81,6 +81,6 @@ p {
   color: green;
 }
 ```
-OK here we go so the `<h1>` header tag yep the text is purple.Also has a background color of yellow,a solid black border that's 1 pixel wide. The last tag `<p>` is a paragraph tag which text is green yep Hulk green. 
+OK here we go so the `<h1>` header tag yep the text is purple. Also has a background color of yellow, a solid black border that's 1 pixel wide. The last tag `<p>` is a paragraph tag which text is green yep Hulk green. 
 
 So there you have it a short intro to HTML and CSS to learn more head over to [MDN](https://developer.mozilla.org/en-US/) Web Docs.
