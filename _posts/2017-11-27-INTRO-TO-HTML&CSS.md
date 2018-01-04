@@ -83,4 +83,4 @@ p {
 ```
 OK here we go so the `<h1>` header tag yep the text is purple. Also has a background color of yellow, a solid black border that's 1 pixel wide. The last tag `<p>` is a paragraph tag which text is green yep Hulk green. 
 
-So there you have it a short intro to HTML and CSS to learn more head over to [MDN](https://developer.mozilla.org/en-US/) Web Docs.
+So there you have it a short intro to HTML and CSS to learn more head over to [MDN Web Docs](https://developer.mozilla.org/en-US/).
