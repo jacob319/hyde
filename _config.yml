@@ -7,7 +7,7 @@ permalink: /blog/:year/:month/:day/:title
 
 # Setup
 title:            Isaac's Blog
-tagline:          'HTML, CSS, JavaScript'
+tagline:          'Learning HTML, CSS, JavaScript'
 description:      'Simple blog posts about me learning HTML, CSS, and JavaScript. Mainly will be posting weekly in a technical blog form.'
 url:              https://github.com/jacob319
 baseurl:          /
