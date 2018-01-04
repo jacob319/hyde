@@ -52,7 +52,7 @@ CSS can either be written in the HTML file or in a separate css file. OK to use 
   </body>
 </html>
 ```
- One can also link the css file in HTML: `<link rel="stylesheet" href="style.css">`. Now let me give you and example:
+ One can also link a css file which will hold the style for the HTML page: `<link rel="stylesheet" href="style.css">`. Now let me give you and example:
 
 ```
 <!DOCTYPE html>
