@@ -30,10 +30,10 @@ So here's a example of a HTML page:
 
 ### INTRO To CSS
 
-In addi [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) brings color and style to ones website. Brings  a little pop too something interesting to your site that views will enjoy.
+ [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) brings color and style to ones website. Brings  a little pop too something interesting to your site that views will enjoy.
 >Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.
 
-CSS can either be writing in the HTML file or in a separate css file. OK to use CSS in HTML let's use some style tags: `<style>h1{ backgroud-color:yellow;}</style>`. Oh yes place in between the head tags like so:
+CSS can either be written in the HTML file or in a separate css file. OK to use CSS in HTML let's use some style tags: `<style>h1{ backgroud-color:yellow;}</style>`. Oh yes place in between the head tags like so:
 ```
 <!DOCTYPE html>
 <html>
@@ -52,7 +52,7 @@ CSS can either be writing in the HTML file or in a separate css file. OK to use 
   </body>
 </html>
 ```
- so one must link the css file in HTML: `<link rel="stylesheet" href="style.css">`. Now let me give you and example:
+ One can also link the css file in HTML: `<link rel="stylesheet" href="style.css">`. Now let me give you and example:
 
 ```
 <!DOCTYPE html>
