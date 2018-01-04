@@ -33,7 +33,7 @@ So here's a example of a HTML page:
  [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) brings color and style to ones website. Brings  a little pop too something interesting to your site that views will enjoy.
 >Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.
 
-CSS can either be written between the head tags, include in the element tag, or in a separate css file. OK to use CSS between the head tags which is called <em>internal Style Sheet</em> let's use some style tags: `<style>h1{ backgroud-color:yellow;}</style>`:
+CSS can either be written between the head tags, include in the element tag, or in a separate css file. OK to use CSS between the head tags which is called <em>Internal Style Sheet</em> let's use some style tags: `<style>h1{ backgroud-color:yellow;}</style>`:
 ```
 <!DOCTYPE html>
 <html>
