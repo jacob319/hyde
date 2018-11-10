@@ -10,7 +10,7 @@ title:            Isaac's Blog
 tagline:          'Learning HTML, CSS, JavaScript'
 description:      'Simple blog posts about me learning HTML, CSS, and JavaScript. Mainly will be posting weekly in a technical blog form.'
 url:              https://github.com/jacob319
-baseurl:          /
+baseurl:          jacob319
 
 author:
   name:           'Isaac Madearis'
